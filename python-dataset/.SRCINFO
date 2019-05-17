@@ -1,0 +1,19 @@
+pkgbase = python-dataset
+	pkgdesc = Toolkit for Python-based database access.
+	pkgver = 1.1.0
+	pkgrel = 1
+	url = http://github.com/pudo/dataset
+	arch = any
+	license = MIT
+	makedepends = python-setuptools
+	depends = python
+	depends = python-sqlalchemy
+	depends = python-alembic
+	source = https://files.pythonhosted.org/packages/source/d/dataset/dataset-1.1.0.tar.gz
+	md5sums = SKIP
+
+pkgname = python-dataset
+	depends = python
+	depends = python-sqlalchemy
+	depends = python-alembic
+
